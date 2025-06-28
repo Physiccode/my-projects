@@ -18,11 +18,11 @@
 ### 💎**SSTI**💎🥉
 
 # **🧬PROJECTS HISTORY🧬**
-
+none.
 # **🏆Sucessfull bug bounties**🏆
 none.
 # **🎭LINKS🎭**
 - [**📕YOUTUBE📕**](https://www.youtube.com/@Physicexe)
 
-# ETC
+# THE END🔮
 *trying to be better than my yesterday self everyday*
