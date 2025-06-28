@@ -6,14 +6,16 @@
 ### n2-C++✅[first touch:may 21st 2025]
 ### n3-JAVA(I like,but i dont really use it much)
 
-### 👨‍🎓Languages i speak fluently:
-Portuguese(native)
-English
+## 👨‍🎓Languages i speak fluently👨‍🎓:
+### Portuguese(native)
+### English
 
-Vulnerabilities im mostly trained at:
-1-💎**IDOR**💎🥇
-2-💎**RCE**💎🥈
-3-💎**SSTI**💎🥉
+## 🎃Vulnerabilities im mostly trained at🎃:
+### 💎**IDOR**💎🥇
+### 💎**RCE**💎🥈
+### 💎**SSTI**💎🥉
+
+# **🧬PROJECTS HISTORY🧬**
 
 # **🏆Sucessfull bug bounties**🏆
 none.
