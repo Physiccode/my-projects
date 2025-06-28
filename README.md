@@ -21,7 +21,7 @@
 
 # **🏆Sucessfull bug bounties**🏆
 none.
-# 🎭LINKS🎭
+# **🎭LINKS🎭**
 [My youtube channel](https://www.youtube.com)
 
 
