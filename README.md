@@ -9,8 +9,8 @@
 <pre>System.out.println("Hello wordl")</pre>
 
 # 👨‍🎓Languages i speak fluently👨‍🎓:
-### Portuguese(native)🔊
-### English🔉
+### - Portuguese(native)🔊
+### - English🔉
 
 ## 🎃Vulnerabilities im mostly trained at🎃:
 ### 💎**IDOR**💎🥇
@@ -22,11 +22,10 @@
 # **🏆Sucessfull bug bounties**🏆
 none.
 # **🎭LINKS🎭**
-[My youtube channel](https://www.youtube.com)
+- [My youtube channel](https://www.youtube.com)
 
 tests:
-1. First
-2. Second
+
 
 - Bullet 1
 - Bullet 2
