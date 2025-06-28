@@ -1,9 +1,10 @@
 # **🔥Physic's Projects/bug bounties/projects🔥**
 
-Programming languages that i use the most:
-n1-Python✅[first touch:december 2024]
-n2-C++✅[first touch:may 21st 2025]
-n3-Java(i dont really use nor i have experience but i like it)
+## Programming languages that i use the most:
+
+### n1-PYTHON✅[first touch:december 2024]
+### n2-C++✅[first touch:may 21st 2025]
+### n3-JAVA(I like,but i dont really use it much)
 
 ### 👨‍🎓Languages i speak fluently:
 Portuguese(native)
