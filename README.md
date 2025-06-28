@@ -22,7 +22,7 @@
 # **🏆Sucessfull bug bounties**🏆
 none.
 # **🎭LINKS🎭**
-- [My youtube channel]((https://www.youtube.com/@Physicexe)
+- [My youtube channel](https://www.youtube.com/@Physicexe)
 
 # ETC
 *trying to be better than my yesterday self everyday*
