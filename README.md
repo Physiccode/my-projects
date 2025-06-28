@@ -24,4 +24,11 @@ none.
 # **🎭LINKS🎭**
 [My youtube channel](https://www.youtube.com)
 
+tests:
+1. First
+2. Second
 
+- Bullet 1
+- Bullet 2
+
+  *This text is italic*
