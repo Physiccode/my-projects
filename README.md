@@ -1,4 +1,4 @@
-#**🔥Physic's Projects/bug bounties/projects🔥**
+# **🔥Physic's Projects/bug bounties/projects🔥**
 
 Programming languages that i use the most:
 n1-Python✅[first touch:december 2024]
